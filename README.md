@@ -76,5 +76,5 @@ Options for grep strings in files found by spider. By default it doesn't grep st
 
 ## Author
 **nikallass**
-<br>E-mail: <nikallass@yandex.ru>
 <br>Telegram: [@is_man](https://t.me/is_man)
+<br>LinkedIn: [Nikita M.](https://linkedin.com/in/mednikand)
